@@ -1,0 +1,31 @@
+header{
+    display:flex;
+    flex-direction: row;
+    
+}
+    
+
+img{
+    width: 280px;
+}
+center{
+    size: 100px;
+}
+p{
+    color: blue;
+    margin-right: 95px;
+}
+a{
+    margin-right: 100px;
+}
+span{
+    margin-right: 170px;
+
+}
+footer{
+    background-color: rgb(42, 42, 55);
+    color: rgb(255, 255, 255);
+    p{
+        color: aliceblue;
+    }
+}
